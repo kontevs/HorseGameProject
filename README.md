@@ -12,22 +12,33 @@
 
 - Oyuna başlamak için "Play" butonuna tıklamanız yeterli olacaktır. Bu ekranda oyun ile ilgili kısa açıklamalar da yer almaktadır.
 
-![oyun-ici-gorsel (4)](https://github.com/kontevs/HorseGame/assets/127441398/25abf81f-fd4a-4fd9-af8e-bf37ba806059)
+  
+![oyun-ici-gorsel (4)](https://github.com/kontevs/HorseGameProject/assets/127441398/b59f9129-0c32-4d15-856c-b895bb80705a)
+
+
 
 ## **Game Ekranı:**
 
 
 - Oyun başladığında ekranın ortasında rastgele toplama, çıkarma veya çarpma işlemi belirmekte ve işlem ekranda 5 saniye kaldıktan sonra kaybolmaktadır. At hizasında spawn olan saman objeleri içinde bu işlemlerin sonucu yer almakta. At ilerledikçe hem engelleri aşmalısınız hem de bu matematiksel işlemleri yapmalısınız. At ile ilerlerken sorulara yanlış cevaplar vermeniz için üç hakkınız bulunmakta. Ekranın sol üst köşesinde can barlarından ne kadar canınızın kaldığını görebilirsiniz.
 
-![oyun-ici-gorsel (7)](https://github.com/kontevs/HorseGame/assets/127441398/b688a7a0-c160-403e-be34-9654fb158c6b)
+![oyun-ici-gorsel (7)](https://github.com/kontevs/HorseGameProject/assets/127441398/f8b39f3a-3c2b-40ed-b340-4a990979bad4)
+
 
 - Sorulara doğru cevap verirseniz +50 puan kazanmaktasınız. At ile ilerlerken en çok dikkat etmeniz gereken ise kaktüs, çit gibi engellere takıldığınızda oyunu direkt kaybetmiş sayılıyorsunuz.
 
-![oyun-ici-gorsel (1)](https://github.com/kontevs/HorseGame/assets/127441398/1325b86a-f93f-44f2-ade9-a63bf752dcac)
 
-![oyun-ici-gorsel (9)](https://github.com/kontevs/HorseGame/assets/127441398/225e0590-c042-4cf7-b7c5-a85cc3761f7e)
+![oyun-ici-gorsel (1)](https://github.com/kontevs/HorseGameProject/assets/127441398/48dfc1e4-5c24-469f-92f4-75902902272c)
 
-![oyun-ici-gorsel (8)](https://github.com/kontevs/HorseGame/assets/127441398/41400517-8363-4198-a1f5-f3bf2fa93c8b)
+
+![oyun-ici-gorsel (9) ](https://github.com/kontevs/HorseGameProject/assets/127441398/7971e1bb-8846-4476-b0ee-aeb4287e7fcc)
+
+
+![oyun-ici-gorsel (8) ](https://github.com/kontevs/HorseGameProject/assets/127441398/fc006d0a-f71f-46c9-9aee-22a472e67b58)
+
+
+
+
 
 ## **Oyun demo videosu:**
 
