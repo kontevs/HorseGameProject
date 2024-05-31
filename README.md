@@ -42,7 +42,11 @@
 
 ## **Oyun demo videosu:**
 
-[Oyun Demo Videosu](https://github.com/kontevs/HorseGame/assets/127441398/1f2ffa36-d616-4ab9-80c2-6fc82d161ed4)
+
+
+https://github.com/kontevs/HorseGameProject/assets/127441398/3bd6bc03-051f-41ef-9ab4-654d9cae81c8
+
+
 
 
 
